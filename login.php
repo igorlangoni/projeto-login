@@ -1,0 +1,1 @@
+Senha roubada com sucesso!
